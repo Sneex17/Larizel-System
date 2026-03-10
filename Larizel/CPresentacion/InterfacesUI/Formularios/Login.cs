@@ -3,6 +3,7 @@ using MaterialSkin.Controls;
 using System.Security.Cryptography;
 using System.Windows.Forms;
 using FontAwesome.Sharp;
+using CPresentacion.InterfacesUI.Formularios;
 
 namespace CPresentacion
 {
@@ -32,7 +33,9 @@ namespace CPresentacion
 
         private void BuAcceder_Click(object sender, EventArgs e)
         {
-
+            MenuPrincipal menu = new MenuPrincipal();
+            menu.Show();
+            this.Hide();
         }
 
         private void BuVerPassword_Click(object sender, EventArgs e)

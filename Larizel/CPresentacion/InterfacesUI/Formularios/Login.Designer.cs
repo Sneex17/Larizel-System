@@ -74,13 +74,14 @@
             groupInfo.Lighting = false;
             groupInfo.LinearGradient_Background = false;
             groupInfo.LinearGradientPen = false;
-            groupInfo.Location = new Point(184, 78);
+            groupInfo.Location = new Point(203, 104);
+            groupInfo.Margin = new Padding(3, 4, 3, 4);
             groupInfo.Name = "groupInfo";
             groupInfo.PenWidth = 15;
             groupInfo.RGB = false;
             groupInfo.Rounding = true;
             groupInfo.RoundingInt = 17;
-            groupInfo.Size = new Size(432, 346);
+            groupInfo.Size = new Size(494, 461);
             groupInfo.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
             groupInfo.TabIndex = 0;
             groupInfo.Tag = "Cyber";
@@ -95,10 +96,11 @@
             BuVerPassword.IconChar = FontAwesome.Sharp.IconChar.Eye;
             BuVerPassword.IconColor = Color.DimGray;
             BuVerPassword.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            BuVerPassword.IconSize = 41;
-            BuVerPassword.Location = new Point(368, 203);
+            BuVerPassword.IconSize = 49;
+            BuVerPassword.Location = new Point(421, 271);
+            BuVerPassword.Margin = new Padding(3, 4, 3, 4);
             BuVerPassword.Name = "BuVerPassword";
-            BuVerPassword.Size = new Size(43, 41);
+            BuVerPassword.Size = new Size(49, 55);
             BuVerPassword.TabIndex = 12;
             BuVerPassword.TabStop = false;
             BuVerPassword.Click += BuVerPassword_Click;
@@ -108,9 +110,9 @@
             label4.AutoSize = true;
             label4.Font = new Font("Jumper PERSONAL USE ONLY Ex-Bd", 20.2499981F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label4.ForeColor = Color.DimGray;
-            label4.Location = new Point(208, 29);
+            label4.Location = new Point(238, 39);
             label4.Name = "label4";
-            label4.Size = new Size(133, 33);
+            label4.Size = new Size(166, 41);
             label4.TabIndex = 11;
             label4.Text = "System";
             // 
@@ -119,9 +121,9 @@
             label3.AutoSize = true;
             label3.Font = new Font("Jumper PERSONAL USE ONLY Ex-Bd", 20.2499981F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.FromArgb(77, 182, 198);
-            label3.Location = new Point(91, 29);
+            label3.Location = new Point(104, 39);
             label3.Name = "label3";
-            label3.Size = new Size(119, 33);
+            label3.Size = new Size(149, 41);
             label3.TabIndex = 10;
             label3.Text = "Larizel";
             // 
@@ -152,12 +154,13 @@
             BuAcceder.Lighting = false;
             BuAcceder.LinearGradient_Background = false;
             BuAcceder.LinearGradientPen = false;
-            BuAcceder.Location = new Point(119, 272);
+            BuAcceder.Location = new Point(136, 363);
+            BuAcceder.Margin = new Padding(3, 4, 3, 4);
             BuAcceder.Name = "BuAcceder";
             BuAcceder.PenWidth = 15;
             BuAcceder.Rounding = true;
             BuAcceder.RoundingInt = 70;
-            BuAcceder.Size = new Size(195, 50);
+            BuAcceder.Size = new Size(223, 67);
             BuAcceder.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
             BuAcceder.TabIndex = 9;
             BuAcceder.Tag = "Cyber";
@@ -174,10 +177,11 @@
             pictureBoxPass.IconChar = FontAwesome.Sharp.IconChar.Lock;
             pictureBoxPass.IconColor = Color.DimGray;
             pictureBoxPass.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            pictureBoxPass.IconSize = 41;
-            pictureBoxPass.Location = new Point(70, 203);
+            pictureBoxPass.IconSize = 49;
+            pictureBoxPass.Location = new Point(80, 271);
+            pictureBoxPass.Margin = new Padding(3, 4, 3, 4);
             pictureBoxPass.Name = "pictureBoxPass";
-            pictureBoxPass.Size = new Size(43, 41);
+            pictureBoxPass.Size = new Size(49, 55);
             pictureBoxPass.TabIndex = 8;
             pictureBoxPass.TabStop = false;
             // 
@@ -186,9 +190,9 @@
             label2.AutoSize = true;
             label2.Font = new Font("Montserrat SemiBold", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.DimGray;
-            label2.Location = new Point(119, 179);
+            label2.Location = new Point(136, 239);
             label2.Name = "label2";
-            label2.Size = new Size(98, 21);
+            label2.Size = new Size(126, 26);
             label2.TabIndex = 7;
             label2.Text = "Contraseña";
             // 
@@ -198,12 +202,13 @@
             textbPassword.Font = new Font("Tahoma", 11F);
             textbPassword.ForeColor = Color.DimGray;
             textbPassword.Image = null;
-            textbPassword.Location = new Point(119, 203);
+            textbPassword.Location = new Point(136, 271);
+            textbPassword.Margin = new Padding(3, 4, 3, 4);
             textbPassword.MaxLength = 32767;
             textbPassword.Multiline = false;
             textbPassword.Name = "textbPassword";
             textbPassword.ReadOnly = false;
-            textbPassword.Size = new Size(243, 41);
+            textbPassword.Size = new Size(278, 46);
             textbPassword.TabIndex = 6;
             textbPassword.TextAlignment = HorizontalAlignment.Left;
             textbPassword.UseSystemPasswordChar = false;
@@ -215,10 +220,11 @@
             pictureBoxUser.IconChar = FontAwesome.Sharp.IconChar.User;
             pictureBoxUser.IconColor = Color.DimGray;
             pictureBoxUser.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            pictureBoxUser.IconSize = 41;
-            pictureBoxUser.Location = new Point(70, 127);
+            pictureBoxUser.IconSize = 49;
+            pictureBoxUser.Location = new Point(80, 169);
+            pictureBoxUser.Margin = new Padding(3, 4, 3, 4);
             pictureBoxUser.Name = "pictureBoxUser";
-            pictureBoxUser.Size = new Size(43, 41);
+            pictureBoxUser.Size = new Size(49, 55);
             pictureBoxUser.TabIndex = 5;
             pictureBoxUser.TabStop = false;
             // 
@@ -227,9 +233,9 @@
             label1.AutoSize = true;
             label1.Font = new Font("Montserrat SemiBold", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.DimGray;
-            label1.Location = new Point(119, 103);
+            label1.Location = new Point(136, 137);
             label1.Name = "label1";
-            label1.Size = new Size(69, 21);
+            label1.Size = new Size(87, 26);
             label1.TabIndex = 4;
             label1.Text = "Usuario";
             // 
@@ -239,24 +245,27 @@
             textbUsuario.Font = new Font("Tahoma", 11F);
             textbUsuario.ForeColor = Color.DimGray;
             textbUsuario.Image = null;
-            textbUsuario.Location = new Point(119, 127);
+            textbUsuario.Location = new Point(136, 169);
+            textbUsuario.Margin = new Padding(3, 4, 3, 4);
             textbUsuario.MaxLength = 32767;
             textbUsuario.Multiline = false;
             textbUsuario.Name = "textbUsuario";
             textbUsuario.ReadOnly = false;
-            textbUsuario.Size = new Size(243, 41);
+            textbUsuario.Size = new Size(278, 46);
             textbUsuario.TabIndex = 3;
             textbUsuario.TextAlignment = HorizontalAlignment.Left;
             textbUsuario.UseSystemPasswordChar = false;
             // 
             // Login
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(250, 248, 240);
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(900, 600);
             Controls.Add(groupInfo);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Login";
+            Padding = new Padding(3, 85, 3, 4);
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";
             groupInfo.ResumeLayout(false);

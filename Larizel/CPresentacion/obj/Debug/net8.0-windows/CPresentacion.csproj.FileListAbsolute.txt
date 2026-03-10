@@ -156,3 +156,4 @@ C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CPresentacion\obj\Debu
 C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CPresentacion\obj\Debug\net8.0-windows\ref\CPresentacion.dll
 C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.Login.resources
 C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CPresentacion\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CPresentacion\obj\Debug\net8.0-windows\CPresentacion.InterfacesUI.Formularios.MenuPrincipal.resources

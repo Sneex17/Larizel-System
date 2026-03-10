@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\formularios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\formularios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +34,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
+              "RelativeToolTip": "CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:03:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:03:23.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\Login.cs",
               "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\Formularios\\Login.cs",
@@ -38,15 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\Login.cs",
               "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\Formularios\\Login.cs",
               "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\Login.cs",
               "RelativeToolTip": "CPresentacion\\InterfacesUI\\Formularios\\Login.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T13:23:22.088Z"
+              "WhenOpened": "2026-03-10T13:23:22.088Z",
+              "EditorCaption": ""
             }
           ]
         }
