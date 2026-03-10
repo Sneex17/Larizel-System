@@ -64,16 +64,16 @@
             ControlSubmenu.Multiline = true;
             ControlSubmenu.Name = "ControlSubmenu";
             ControlSubmenu.SelectedIndex = 0;
-            ControlSubmenu.Size = new Size(894, 550);
+            ControlSubmenu.Size = new Size(994, 600);
             ControlSubmenu.TabIndex = 0;
             ControlSubmenu.SelectedIndexChanged += ControlSubmenu_SelectedIndexChanged;
             // 
             // tabHome
             // 
             tabHome.ImageKey = "Home.png";
-            tabHome.Location = new Point(4, 74);
+            tabHome.Location = new Point(4, 39);
             tabHome.Name = "tabHome";
-            tabHome.Size = new Size(886, 472);
+            tabHome.Size = new Size(986, 557);
             tabHome.TabIndex = 7;
             tabHome.Text = "Inicio";
             tabHome.UseVisualStyleBackColor = true;
@@ -182,7 +182,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(900, 600);
+            ClientSize = new Size(1000, 650);
             Controls.Add(ControlSubmenu);
             DrawerShowIconsWhenHidden = true;
             DrawerTabControl = ControlSubmenu;

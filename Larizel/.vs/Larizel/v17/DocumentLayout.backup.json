@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\usercontrols\\ucclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\usercontrols\\ucclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\usercontrols\\ucclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\usercontrols\\ucclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\formularios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\formularios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\interfacesui\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +43,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ucClientes.cs",
+              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\UserControls\\ucClientes.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\UserControls\\ucClientes.cs",
+              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\UserControls\\ucClientes.cs",
+              "RelativeToolTip": "CPresentacion\\InterfacesUI\\UserControls\\ucClientes.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:45:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\UserControls\\ucClientes.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\UserControls\\ucClientes.cs",
+              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\UserControls\\ucClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CPresentacion\\InterfacesUI\\UserControls\\ucClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:24:21.462Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MenuPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
               "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
               "RelativeToolTip": "CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T16:03:31.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MenuPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\Formularios\\MenuPrincipal.cs",
@@ -71,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\InterfacesUI\\Formularios\\Login.cs",
               "RelativeDocumentMoniker": "CPresentacion\\InterfacesUI\\Formularios\\Login.cs",

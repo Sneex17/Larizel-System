@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MaterialSkin;
 using MaterialSkin.Controls;
+using CPresentacion.InterfacesUI.UserControls;
 
 namespace CPresentacion.InterfacesUI.Formularios
 {
@@ -36,7 +37,13 @@ namespace CPresentacion.InterfacesUI.Formularios
 
         private void ControlSubmenu_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            if(ControlSubmenu.SelectedTab == tabClientes 
+                && tabClientes.Controls.Count == 0)
+            {
+                ucClientes clientes = new ucClientes();
+                clientes.Dock = DockStyle.Fill;
+                tabClientes.Controls.Add(clientes);
+            }
         }
     }
 }
