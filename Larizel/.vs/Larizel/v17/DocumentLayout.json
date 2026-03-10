@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D83A0B42-6295-4941-9900-3AB5038D8678}|CData\\CData.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cdata\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83A0B42-6295-4941-9900-3AB5038D8678}|CData\\CData.csproj|solutionrelative:cdata\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B06ED2C7-E072-41DA-8214-2F329CD83CBE}|CEntidades\\CEntidades.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\centidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B06ED2C7-E072-41DA-8214-2F329CD83CBE}|CEntidades\\CEntidades.csproj|solutionrelative:centidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8F8F823-7445-49FC-ABB7-4523D923489D}|CNegocio\\CNegocio.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cnegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8F8F823-7445-49FC-ABB7-4523D923489D}|CNegocio\\CNegocio.csproj|solutionrelative:cnegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,62 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CData\\Class1.cs",
-              "RelativeDocumentMoniker": "CData\\Class1.cs",
-              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CData\\Class1.cs",
-              "RelativeToolTip": "CData\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:16:04.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CEntidades\\Class1.cs",
-              "RelativeDocumentMoniker": "CEntidades\\Class1.cs",
-              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CEntidades\\Class1.cs",
-              "RelativeToolTip": "CEntidades\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:15:25.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CNegocio\\Class1.cs",
-              "RelativeDocumentMoniker": "CNegocio\\Class1.cs",
-              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CNegocio\\Class1.cs",
-              "RelativeToolTip": "CNegocio\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:14:59.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\Form1.cs",
-              "RelativeDocumentMoniker": "CPresentacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CPresentacion\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:12:51.802Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

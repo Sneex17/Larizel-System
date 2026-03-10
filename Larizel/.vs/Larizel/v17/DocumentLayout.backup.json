@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "S:\\xrami\\OneDrive - Universidad Central del Este\\Trabajos de Programaci\u00F3n Avanzada ISW-124-1\\Larizel\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|s:\\xrami\\onedrive - universidad central del este\\trabajos de programaci\u00F3n avanzada isw-124-1\\larizel\\cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,23 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "S:\\xrami\\OneDrive - Universidad Central del Este\\Trabajos de Programaci\u00F3n Avanzada ISW-124-1\\Larizel\\CPresentacion\\Form1.cs",
-              "RelativeDocumentMoniker": "CPresentacion\\Form1.cs",
-              "ToolTip": "S:\\xrami\\OneDrive - Universidad Central del Este\\Trabajos de Programaci\u00F3n Avanzada ISW-124-1\\Larizel\\CPresentacion\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CPresentacion\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T12:12:51.802Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

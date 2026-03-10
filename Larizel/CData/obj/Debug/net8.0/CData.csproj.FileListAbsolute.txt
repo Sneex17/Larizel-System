@@ -1,0 +1,16 @@
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\bin\Debug\net8.0\CData.deps.json
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\bin\Debug\net8.0\CData.dll
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\bin\Debug\net8.0\CData.pdb
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\bin\Debug\net8.0\CEntidades.dll
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\bin\Debug\net8.0\CEntidades.pdb
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.csproj.AssemblyReference.cache
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.AssemblyInfoInputs.cache
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.AssemblyInfo.cs
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.csproj.CoreCompileInputs.cache
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.sourcelink.json
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.csproj.Up2Date
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.dll
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\refint\CData.dll
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\CData.pdb
+C:\Users\xrami\OneDrive\Documentos\Larizel System\Larizel\CData\obj\Debug\net8.0\ref\CData.dll
