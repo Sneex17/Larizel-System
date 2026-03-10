@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|c:\\users\\xrami\\onedrive\\documentos\\larizel system\\larizel\\cpresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B718EAE-3952-4204-8CB2-F95DD6085D7E}|CPresentacion\\CPresentacion.csproj|solutionrelative:cpresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\xrami\\OneDrive\\Documentos\\Larizel System\\Larizel\\CPresentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CPresentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:26:50.059Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
