@@ -31,10 +31,10 @@
             panelInfo = new Panel();
             label1 = new Label();
             panelContainer = new Panel();
-            viewData = new DataGridView();
+            cbxOpcionesFiltro = new ReaLTaiizor.Controls.AloneComboBox();
             label7 = new Label();
             textboxFiltro = new ReaLTaiizor.Controls.DungeonTextBox();
-            cbxOpcionesFiltro = new ReaLTaiizor.Controls.AloneComboBox();
+            viewData = new DataGridView();
             panelInfo.SuspendLayout();
             panelContainer.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)viewData).BeginInit();
@@ -74,20 +74,24 @@
             panelContainer.Size = new Size(986, 494);
             panelContainer.TabIndex = 1;
             // 
-            // viewData
+            // cbxOpcionesFiltro
             // 
-            viewData.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            viewData.Location = new Point(30, 242);
-            viewData.Name = "viewData";
-            viewData.Size = new Size(882, 249);
-            viewData.TabIndex = 0;
+            cbxOpcionesFiltro.DrawMode = DrawMode.OwnerDrawFixed;
+            cbxOpcionesFiltro.DropDownStyle = ComboBoxStyle.DropDownList;
+            cbxOpcionesFiltro.EnabledCalc = true;
+            cbxOpcionesFiltro.FormattingEnabled = true;
+            cbxOpcionesFiltro.ItemHeight = 20;
+            cbxOpcionesFiltro.Location = new Point(683, 203);
+            cbxOpcionesFiltro.Name = "cbxOpcionesFiltro";
+            cbxOpcionesFiltro.Size = new Size(229, 26);
+            cbxOpcionesFiltro.TabIndex = 15;
             // 
             // label7
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Montserrat SemiBold", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label7.ForeColor = Color.DimGray;
-            label7.Location = new Point(30, 208);
+            label7.Location = new Point(30, 203);
             label7.Name = "label7";
             label7.Size = new Size(153, 21);
             label7.TabIndex = 13;
@@ -100,7 +104,7 @@
             textboxFiltro.EdgeColor = Color.White;
             textboxFiltro.Font = new Font("Tahoma", 11F);
             textboxFiltro.ForeColor = Color.DimGray;
-            textboxFiltro.Location = new Point(189, 208);
+            textboxFiltro.Location = new Point(189, 203);
             textboxFiltro.MaxLength = 32767;
             textboxFiltro.Multiline = false;
             textboxFiltro.Name = "textboxFiltro";
@@ -110,17 +114,13 @@
             textboxFiltro.TextAlignment = HorizontalAlignment.Left;
             textboxFiltro.UseSystemPasswordChar = false;
             // 
-            // cbxOpcionesFiltro
+            // viewData
             // 
-            cbxOpcionesFiltro.DrawMode = DrawMode.OwnerDrawFixed;
-            cbxOpcionesFiltro.DropDownStyle = ComboBoxStyle.DropDownList;
-            cbxOpcionesFiltro.EnabledCalc = true;
-            cbxOpcionesFiltro.FormattingEnabled = true;
-            cbxOpcionesFiltro.ItemHeight = 20;
-            cbxOpcionesFiltro.Location = new Point(683, 208);
-            cbxOpcionesFiltro.Name = "cbxOpcionesFiltro";
-            cbxOpcionesFiltro.Size = new Size(229, 26);
-            cbxOpcionesFiltro.TabIndex = 15;
+            viewData.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            viewData.Location = new Point(30, 242);
+            viewData.Name = "viewData";
+            viewData.Size = new Size(882, 249);
+            viewData.TabIndex = 0;
             // 
             // ucGestion
             // 
